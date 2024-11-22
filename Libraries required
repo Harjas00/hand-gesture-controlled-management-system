@@ -1,0 +1,3 @@
+pip install mediapipe
+pip install screen_brightness_control
+pip install pycaw
